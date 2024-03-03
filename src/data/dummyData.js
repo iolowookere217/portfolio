@@ -1,0 +1,58 @@
+const projectsData = [
+  {
+    id: 1,
+    title: "Dotedu",
+    description: "A School Management App",
+    image: "/images/projects/dotedu.png",
+    tag: ["All", "Web"],
+    gitUrl: "/",
+    previewUrl: "/",
+  },
+  {
+    id: 2,
+    title: "Dotfood",
+    description: "Restaurant Management App",
+    image: "/images/projects/dotfood.png",
+    tag: ["All", "Web"],
+    gitUrl: "/",
+    previewUrl: "/",
+  },
+  {
+    id: 3,
+    title: "Dotmed",
+    description: "Health Management App",
+    image: "/images/projects/dotmed.png",
+    tag: ["All", "Web"],
+    gitUrl: "/",
+    previewUrl: "/",
+  },
+  {
+    id: 4,
+    title: "Dotsuite",
+    description: "A group of Dot applications",
+    image: "/images/projects/4.png",
+    tag: ["All", "Mobile"],
+    gitUrl: "/",
+    previewUrl: "/",
+  },
+  {
+    id: 5,
+    title: "React Firebase Template",
+    description: "Authentication & CRUD operations",
+    image: "/images/projects/5.png",
+    tag: ["All", "Web"],
+    gitUrl: "/",
+    previewUrl: "/",
+  },
+  {
+    id: 6,
+    title: "Full-stack Roadmap",
+    description: "Project 5 description",
+    image: "/images/projects/6.png",
+    tag: ["All", "Web"],
+    gitUrl: "/",
+    previewUrl: "/",
+  },
+];
+
+export default projectsData;
